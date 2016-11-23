@@ -1,0 +1,9 @@
+#include <studio.in>
+#include <conio.in>
+
+main()
+{
+
+printf("welcome to C program \n");
+
+}
